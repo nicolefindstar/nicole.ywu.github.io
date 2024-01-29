@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "Rome-Italy"
+locale                   : "en-US"
 title                    : "Nicole Y. Wu"
 title_separator          : "-"
 name                     : &name "Nicole Wu"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : nicole_ywu
 facebook:
   username               :
   app_id                 :
